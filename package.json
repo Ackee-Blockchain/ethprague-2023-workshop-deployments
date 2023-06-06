@@ -1,0 +1,25 @@
+{
+  "name": "ethprague-2023-workshop-deployments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ackee-Blockchain/ethprague-2023-workshop-deployments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ackee-Blockchain/ethprague-2023-workshop-deployments/issues"
+  },
+  "homepage": "https://github.com/Ackee-Blockchain/ethprague-2023-workshop-deployments#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0"
+  }
+}
